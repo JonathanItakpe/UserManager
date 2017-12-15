@@ -12,7 +12,7 @@ This application was developed using [ExpressJS](http://expressjs.com/). MongoDB
 * Start up your terminal (or Command Prompt on Windows OS).
 * Clone the repository by entering the command `git clone https://github.com/JonathanItakpe/UserManager` in the terminal.
 * Navigate to the project folder using `cd UserManager` on your terminal (or command prompt).
-* Run `cp app/.env.sample app/.env` - Creates a `.env` file in the app folder and copies the content of `.env.sample` into it
+* Run `cp app/.env-sample app/.env` - Creates a `.env` file in the app folder and copies the content of `.env-sample` into it
 * Install [Docker](https://docs.docker.com/engine/installation/#supported-platforms)
 * Verify you have Docker Compose Installed (Windows and Mac users most likely do) by running `docker-compose` from your terminal. You should get a bunch of Information and Help text.
 * If you get an error message, you need to install [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
